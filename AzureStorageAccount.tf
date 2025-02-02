@@ -1,6 +1,6 @@
 resource "azurerm_resource_group" "demo" {
-  name     = "example-resources"
-  location = "West Europe"
+  name     = "1-dddc1662-playground-sandbox"
+  location = "South Central US"
 }
 
 ##  Demo now
