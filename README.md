@@ -1,2 +1,3 @@
 # CloudGuru
-Sandbox for practice with cloud guru
+Sandbox for practice with cloud guru courses
+
